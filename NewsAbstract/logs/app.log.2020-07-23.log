@@ -1,0 +1,155 @@
+2020-07-23 15:33:04,981 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:34:28,772 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:35:35,511 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:36:31,500 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:39:35,446 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:39:51,874 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:39:55,565 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:40:12,368 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:40:40,628 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:40:41,745 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:40:50,096 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:41:01,516 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:41:12,779 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:41:32,384 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:14,062 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:34,567 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:37,497 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:43,393 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:44,555 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:42:59,934 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:48:55,708 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:50:39,088 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:52:23,123 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:53:18,620 [text_blueprint.py] [extract_summarization] [ERROR] [49] pop from empty list
+2020-07-23 15:54:52,048 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:55:16,469 [text_blueprint.py] [extract_summarization] [ERROR] [49] pop from empty list
+2020-07-23 15:56:14,681 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:56:40,712 [text_blueprint.py] [extract_summarization] [ERROR] [49] pop from empty list
+2020-07-23 15:57:08,856 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 15:57:40,523 [text_blueprint.py] [extract_summarization] [ERROR] [50] pop from empty list
+2020-07-23 15:58:45,820 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:23:29,726 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:24:54,895 [text_blueprint.py] [extract_summarization] [INFO] [44] /show接口数据获取成功
+2020-07-23 16:24:55,266 [text_blueprint.py] [extract_summarization] [INFO] [44] /show接口数据获取成功
+2020-07-23 16:24:55,273 [text_blueprint.py] [extract_summarization] [INFO] [44] /show接口数据获取成功
+2020-07-23 16:25:55,741 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:26:28,516 [text_blueprint.py] [extract_summarization] [ERROR] [47] pop from empty list
+2020-07-23 16:27:18,657 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:31:04,172 [text_blueprint.py] [extract_summarization] [ERROR] [47] pop from empty list
+2020-07-23 16:34:18,926 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:34:44,133 [text_blueprint.py] [extract_summarization] [INFO] [44] /show接口数据获取成功
+2020-07-23 16:35:34,578 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:36:00,081 [text_blueprint.py] [extract_summarization] [INFO] [44] /show接口数据获取成功
+2020-07-23 16:36:52,563 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:37:31,592 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 16:37:50,326 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 16:49:32,665 [text_blueprint.py] [extract_summarization] [ERROR] [44] pop from empty list
+2020-07-23 16:50:05,919 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 16:50:48,331 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 16:50:48,325 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 17:43:00,427 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 17:43:24,324 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 20:13:24,347 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 20:14:24,681 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 20:22:45,211 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 20:25:25,899 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 20:26:07,187 [text_blueprint.py] [extract_summarization] [INFO] [41] /show接口数据获取成功
+2020-07-23 20:29:38,879 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 20:30:53,176 [text_blueprint.py] [extract_summarization] [INFO] [46] /show接口数据获取成功
+2020-07-23 20:51:13,511 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 20:51:34,567 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:51:58,792 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:52:56,884 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:53:17,792 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:54:27,926 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:55:02,725 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 20:56:05,892 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:04:49,034 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:05:56,925 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:08:11,451 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:09:27,264 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:09:42,417 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:11:51,836 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:11:54,042 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:11:55,255 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:00,169 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:20,158 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:12:24,407 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:25,532 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:25,698 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:25,884 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:38,460 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:38,533 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:38,750 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:39,024 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:39,251 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:40,546 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:12:42,014 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:42,706 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:12:42,899 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:13:55,458 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:14:14,256 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:14:18,869 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:14:19,116 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:14:39,371 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:14:40,740 [text_blueprint.py] [extract_summarization] [INFO] [51] /show接口数据获取成功
+2020-07-23 21:15:37,561 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:15:40,744 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:16:41,020 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:16:42,449 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:16:57,704 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:16:57,783 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:16:58,045 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:17:02,846 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:17:11,224 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:17:25,741 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:17:30,911 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-23 21:17:54,266 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:17:54,268 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:17:54,269 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:17:57,359 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:17:59,115 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:38,449 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:32:45,294 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:45,539 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:48,215 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:32:49,976 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:50,147 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:50,319 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:32:50,485 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:33:14,440 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:33:18,054 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:34:40,733 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:34:45,171 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:34:46,057 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:34:46,217 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:35:31,820 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:35:34,094 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:36:43,607 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:36:45,938 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:42:59,332 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:43:02,233 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:47:48,546 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:49:23,384 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:52:26,193 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:52:26,195 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:52:26,197 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:52:27,360 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:52:39,021 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:52:39,374 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:52:39,376 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 21:53:52,671 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 21:54:16,717 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 22:06:08,625 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 22:06:47,465 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 22:09:12,700 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 22:09:38,956 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 22:10:25,892 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 22:10:54,407 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 22:26:13,597 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 23:20:16,323 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 23:28:16,044 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 23:28:44,121 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功
+2020-07-23 23:43:07,839 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-23 23:43:46,470 [text_blueprint.py] [extract_summarization] [INFO] [52] /show接口数据获取成功

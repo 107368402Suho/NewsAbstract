@@ -1,0 +1,11 @@
+2020-07-25 12:24:18,086 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-25 12:25:13,267 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-25 12:31:59,026 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-25 12:32:37,860 [text_blueprint.py] [extract_summarization] [ERROR] [56] 'dict' object has no attribute 'params'
+2020-07-25 12:32:55,368 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-25 12:33:05,940 [text_blueprint.py] [extract_summarization] [ERROR] [56] 'dict' object has no attribute 'params'
+2020-07-25 12:33:59,323 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-25 12:34:22,809 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-25 12:34:45,987 [text_blueprint.py] [index] [INFO] [18] run app_summarization
+2020-07-25 12:35:54,314 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
+2020-07-25 12:36:00,637 [text_blueprint.py] [extract_summarization] [INFO] [53] /show接口数据获取成功
